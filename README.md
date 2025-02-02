@@ -3,7 +3,6 @@
 A simple frontend clone of the Amazon home page built using **HTML and CSS**.
 
 ## 🚀 Features
-- Responsive design (if applicable)
 - Navigation bar similar to Amazon
 - Navigation section with hover effects
 - Footer and products section
